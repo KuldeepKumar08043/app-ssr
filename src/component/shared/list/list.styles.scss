@@ -1,0 +1,13 @@
+.list-items {
+    text-align: left;
+    list-style: none;
+    background: #ffffff;
+    margin: 15px;
+    padding: 20px;
+    .image {
+        border-radius: 25px; border: 1px solid #eeeeee;display: inline-block; height: 140px;width: 140px;
+        text-align: center;vertical-align: top; margin-right: 20px;
+        img { padding-top: 10px; }
+    }
+    .name { display: inline-block;font-weight: normal; margin: 0 0 10px;font-size: 18px; color: #404040; }
+}
